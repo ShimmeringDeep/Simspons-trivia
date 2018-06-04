@@ -33,7 +33,7 @@ $(document).ready(function () {
         },
         {
             quest: "Homer has a japanese Logo that looks just like him because",
-            choice: ["He's big in Japan", "There is a Japanese Simpsons CEO", "It's a fish/bulb mashup", "Random Happenstance"],
+            choice: ["He's big in Japan", "There is a Simpson in Japan", "It's a fish/bulb mashup", "Random Happenstance"],
             yep: "2",
         },
     ];

@@ -1,0 +1,26 @@
+/* 
+font-family: 'BioRhyme Expanded', serif;
+font-family: 'Luckiest Guy', cursive;
+font-family: 'Poor Story', cursive;
+ */
+
+ body{
+     font-family: 'Poor Story', cursive;
+     text-align: center;
+     background-image: url("pics/donutBkg.jpg");
+ }
+ #quest{
+     font-family: 'Luckiest Guy', cursive;
+ }
+
+ #answers{
+     font-family: 'BioRhyme Expanded', serif;
+ }
+
+ .btn-primary{
+     margin: 5px;
+     color: yellow;
+     background-color: darkblue;
+     border-color: darkblue
+
+ }
